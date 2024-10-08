@@ -18,7 +18,9 @@ Dans l'environnement FrozenLake, l'agent connaît l'intégralité de l'environne
 - L'agent prend des décisions basées sur des valeurs Q pour chaque action possible.
 
 ### MiniGrid
-
+<div align="center">
+    <img src="media/Minigrid.png" alt="Exemple d'image" width="300"/>
+</div>
 Dans l'environnement MiniGrid, l'agent ne connaît que ce qu'il peut voir devant lui. Cet agent apprend à naviguer dans un monde en grille, où les murs, les portes, et les objets peuvent limiter sa visibilité.
 
 **Caractéristiques :**
