@@ -7,7 +7,7 @@ Ce projet implémente des agents d'apprentissage par renforcement basés sur Dee
 ## Environnements
 
 ### FrozenLake
-![FrozenLake](media/FrozenLake.png)
+<img src="media/FrozenLake.png" alt="Exemple d'image" width="300"/>
 Dans l'environnement FrozenLake, l'agent connaît l'intégralité de l'environnement. Cet agent apprend à naviguer sur un lac gelé, en évitant les trous et en atteignant la case de but.
 
 **Caractéristiques :**
